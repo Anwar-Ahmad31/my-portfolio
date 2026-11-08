@@ -95,9 +95,9 @@ const About = () => {
               <div className="flex items-center justify-between px-1 mb-2.5 text-[10px] font-mono tracking-widest uppercase">
                 <span className="text-white/60 font-bold flex items-center gap-1.5">
                   <span className="w-2 h-2 rounded-full bg-emerald-400 animate-pulse"></span>
-                  AI Engineer Pass
+                  Engineering ID
                 </span>
-                <span className="text-cyan-400 font-bold">2026</span>
+                <span className="text-cyan-400 font-bold">7th Semester</span>
               </div>
 
               {/* Image Container — Perfectly framed with generous headroom so head is never cut */}
@@ -122,7 +122,7 @@ const About = () => {
                 
                 {/* Decorative barcode & chip */}
                 <div className="mt-2.5 pt-2 border-t border-white/5 flex items-center justify-between text-white/30 text-[9px] font-mono">
-                  <span className="tracking-widest">ID: AA-2026-AI</span>
+                  <span className="tracking-widest">ID: AA-BTECH-CSE</span>
                   <div className="flex gap-0.5 items-center opacity-60">
                     <span className="w-1 h-3 bg-white/40"></span>
                     <span className="w-0.5 h-3 bg-white/40"></span>
